@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsreacttutorialb5a8b510": {}
+      },
+      "api": {
+        "awsreacttutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
